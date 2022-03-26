@@ -1,0 +1,28 @@
+.veggie-detail {
+    margin: 10px 0 0;
+}
+
+.veggie-detail img {
+    max-height: 400px;
+    max-width: 400px;
+}
+
+.veggie-detail Button {
+    margin: 10px;
+}
+
+#go-back {
+    background-color: #BF110A;
+}
+
+.veggie-detail h1 {
+    font-size: 40px;
+    margin: 0 0 40px;
+    font-weight: lighter;
+}
+
+.veggie-detail p {
+    padding: 15px 20px;
+    text-align: left;
+    font-weight: normal;
+}

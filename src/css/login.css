@@ -1,0 +1,17 @@
+.login {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 100px auto;
+    padding: 20px;
+}
+
+.login > *:not(:last-child) {
+    margin-bottom: 15px;
+    background-color: white;
+}
+
+.login > button {
+    font-weight: bold;
+}
+
